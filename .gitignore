@@ -1,0 +1,7 @@
+# Whitelist subdirectories.
+!*/
+!docker/
+# Whitelist these filetypes.
+!.gitignore
+!*.sh
+!Dockerfile
